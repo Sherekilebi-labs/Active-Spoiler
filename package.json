@@ -1,0 +1,8 @@
+{
+  "name": "active-spoiler-tsintsadze",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "test": "node test/dashboard_api.js"
+  }
+}
